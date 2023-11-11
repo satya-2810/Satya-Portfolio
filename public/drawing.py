@@ -1,4 +1,4 @@
-# Importing Tkinter and color chooser module, which will open a modal to select our RGB color
+# Importing Tkinter and color chooser module
 import tkinter as tk
 from tkinter.colorchooser import askcolor
 
